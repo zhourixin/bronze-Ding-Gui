@@ -5,7 +5,7 @@ This repository contains the official implementation of our paper: **Reconstruct
 
 ## 📘 Overview
 
-This project provides the source code of our paper, which focuses on **bronze dating and analysis**. It implements a full training and evaluation pipeline built upon deep learning models, designed to handle **multi-granularity bronze dating**.
+This project provides the source code of our paper, which focuses on **bronze dating and analysis**. It implements a full training and evaluation pipeline built upon deep learning models, designed to handle **reconstructing and interpreting the evolution of ancient relics with latent space**.
 
 
 <p align="center">
@@ -18,4 +18,17 @@ This project provides the source code of our paper, which focuses on **bronze da
 
 The dataset used in this work (including Ding and Gui bronze images and annotations) is part of an ongoing academic collaboration and **is not publicly released**.
 
+## ⚙️ Setup
+### 1. Environment
+We recommend using **Python 3.10+** and **PyTorch ≥ 2.0**.
+```bash
+git clone https://github.com/zhourixin/bronze-Ding-Gui.git
+cd bronze-Ding-Gui
+pip install -r requirements.txt
+```
+
+### 2. Training and Evaluation
+```bash
+python main_bronze.py
+```
 
