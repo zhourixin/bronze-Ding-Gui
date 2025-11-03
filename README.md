@@ -9,8 +9,9 @@ This project provides the source code of our paper, which focuses on **bronze da
 
 
 <p align="center">
-  <img src="method_fig.pdf" width="80%" alt="Workflow of our data processing, model training, and inference.">
+  <img src="method_fig.png" width="80%" alt="Workflow of our data processing, model training, and inference.">
 </p>
+
 
 
 ## 💾 Dataset Access
