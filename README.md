@@ -31,4 +31,8 @@ pip install -r requirements.txt
 ```bash
 python main_bronze.py
 ```
+## 🧑‍💻 Contact
+For questions about the code or collaboration requests, please contact: panghlwork@gmail.com, zhourx22@mails.jlu.edu.cn
 
+## 📄 License
+This project is released under a Non-Commercial Academic License. Dataset usage and redistribution are strictly prohibited without permission.
